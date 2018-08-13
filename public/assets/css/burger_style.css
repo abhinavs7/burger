@@ -1,0 +1,57 @@
+#txt_burgername{
+    width:50%;
+}
+.burgeradd{
+    margin-top: 30px;
+}
+body{
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+img{
+    border: 10px whitesmoke solid;
+    margin-right: 30px;
+}
+.jumbotron{
+    background-color: lightsalmon;
+
+}
+ul{
+    width: 90%;
+}
+h3{
+    margin: 10px auto 20px auto;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color:maroon;
+}
+p{
+    color:maroon
+}
+.burgeradd{
+    background-color: maroon;
+    border: maroon;
+}
+.devourbutton{
+    border: maroon 1px solid;
+    color:maroon;
+}
+.btn:hover{
+    background-color: maroon;
+    border: maroon 1px solid;
+}
+#txt_burgername{
+    background-color: whitesmoke;
+    border: maroon 1px solid;
+
+}
+hr{
+    border: maroon 1px ridge;
+ 
+}
